@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/list"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_grid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/grid"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/action_share_menu"
+        android:icon="@drawable/icon_share"
+        android:title="SHARE"
+        app:showAsAction="ifRoom"/>
+
+</menu>

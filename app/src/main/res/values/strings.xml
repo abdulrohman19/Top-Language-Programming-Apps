@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Top Language Programming</string>
+    <string name="top_language"> The Best Language Programming</string>
+    <string name="description">Description</string>
+    <string name="tx_description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="about_name">Abdul Rohman</string>
+    <string name="about_email">a198bsy1968@bangkit.academy</string>
+    <string name="about_motivation">\"Practice Makes Perfect\"</string>
+
+    <string-array name="data_language">
+        <item>Python</item>
+        <item>Java</item>
+        <item>JavaScipt</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Ruby</item>
+        <item>PHP</item>
+        <item>Swift</item>
+        <item>Kotlin</item>
+        <item>Go (Golang)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Python is a versatile, high-level programming language known for its simplicity and readability. It\'s highly regarded for its ease of use and extensive libraries, making it a favorite among developers for web development, data analysis, artificial intelligence, scientific computing, and more. Python\'s clean syntax and large community support make it an excellent choice for both beginners and experienced programmers.</item>
+        <item>Java is a robust, object-oriented programming language known for its platform independence. Its "write once, run anywhere" philosophy has made it a staple in various domains, including Android app development, web applications, and large-scale enterprise systems. Java\'s strong typing and memory management make it a reliable choice for building complex, cross-platform applications.</item>
+        <item>JavaScript is a dynamic scripting language primarily used for front-end web development. It plays a crucial role in making web pages interactive and responsive. JavaScript works seamlessly with HTML and CSS, allowing developers to create dynamic user interfaces and web applications. It\'s also used on the server-side (Node.js) and in game development (using frameworks like Phaser).</item>
+        <item>Developed by Microsoft, C# is a versatile language used for building Windows applications, games (using Unity), and web applications with ASP.NET. C# combines the power of C++ with the ease of use of Java, making it an excellent choice for developing a wide range of software solutions.</item>
+        <item>C++ is an extension of the C programming language and is known for its high performance and system-level programming capabilities. It\'s commonly used in developing operating systems, game engines, resource-intensive applications, and real-time systems. C++ provides low-level control over hardware, making it a popular choice for performance-critical applications.</item>
+        <item>Ruby is celebrated for its elegant and expressive syntax, which emphasizes developer happiness and productivity. It\'s commonly used in web development with the Ruby on Rails framework, known for its rapid development capabilities. Ruby\'s simplicity and readability have earned it a devoted developer community.</item>
+        <item>PHP is a server-side scripting language designed for web development. It\'s known for its role in building dynamic web applications and websites. PHP powers countless web pages and is commonly used alongside databases like MySQL. While its design has evolved, it remains a crucial language for web development.</item>
+        <item>Developed by Apple, Swift is the go-to language for iOS, macOS, watchOS, and tvOS app development. It\'s recognized for its speed, safety features, and modern syntax. Swift was designed to be easy to read and write, making it an excellent choice for Apple ecosystem development.</item>
+        <item>Kotlin is a statically typed language that interoperates seamlessly with Java. It\'s become increasingly popular for Android app development due to its modern features, concise syntax, and enhanced safety features. Kotlin\'s expressiveness and reduced boilerplate code contribute to improved developer productivity.</item>
+        <item>Go, or often called Golang, is a programming language developed by Google. It is known for its high performance, safety and efficiency. Go is often used in developing server-based software, web applications, and security projects. This language emphasizes simplicity and ease of maintenance.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/python</item>
+        <item>@drawable/javaa</item>
+        <item>@drawable/javascript</item>
+        <item>@drawable/cc</item>
+        <item>@drawable/cplus</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/php</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/kotlin</item>
+        <item>@drawable/golang</item>
+    </integer-array>
+</resources>
